@@ -1,4 +1,4 @@
-# Projeto_Spotify
+# Projeto Spotify
 
 Curso online:
 
@@ -11,7 +11,7 @@ Projeto básico replicando o site Spotify utilizando HTML5, CSS e Bootstrap 4.
 
 >Figura 1: HTML5, CSS e Bootstrap 4
 
-![HTML5, CSS e Bootstrap4](img/Site.png)
+![HTML5, CSS e Bootstrap4](imagens/Site.png)
 
  
 
